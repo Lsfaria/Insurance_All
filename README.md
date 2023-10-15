@@ -61,9 +61,11 @@ Minha estratégia para resolver esse desafio foi:
 
 **Falsa**  - Clientes do gênero masculino possuem maior probabilidade de adquirir um seguro para carro
 
+
 **Hipótese 02:** Clientes que não possuem carteira de motorista são menos propensos a adquirir um seguro de carro.
 
 **Verdadeira**  - Clientes que não possuem carteira são menos propensos a adquirir um seguro de carro.
+
 
 **Hipótese 03:** Clientes que possuem carros novos são mais propensos a adquirir um seguro para carro.
 
