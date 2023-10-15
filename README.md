@@ -73,13 +73,13 @@ Minha estratégia para resolver esse desafio foi:
 - LightGBM Classifier
 
 # 5. Business Results
-**Com os resultados conseguimos atingir mais de 80% dos clientes na base e com um lucro de aproximadamente 62%..**
+**Com os resultados conseguimos atingir mais de 80% dos clientes na base e com um lucro de aproximadamente 62%.**
 
 # 6. Conclusions
 - O projeto atingiu seu objetivo, que era otimizar a venda de seguros para clientes propensos a aceitá-lo.
 
 # 7. Lessons Learned
-- Classification model for database ranking
+- Modelo de classificação
 
 # 8. Next Steps to Improve
 - Realizar o deploy
