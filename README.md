@@ -1,5 +1,7 @@
 # Insurance All
 
+![](https://img.freepik.com/fotos-gratis/jovem-bonito-abracando-um-carro-em-uma-sala-de-exposicoes_1303-20419.jpg?t=st=1646828377~exp=1646828977~hmac=035f6e01e73390ca11f61cdcb845fb311603af16ebb5819df84eb82ec54a58d3&w=1380)
+
 # 1. Business Problem
 
 A Insurance All é uma empresa que oferece seguro saúde aos seus clientes, e a equipe de produtos está analisando a possibilidade de oferecer aos segurados um novo produto: seguro automotivo. Assim como o seguro saúde, os clientes deste novo plano de seguro automotivo precisam pagar um valor anual à Insurance All para obter um valor segurado pela empresa, destinado aos custos de um eventual acidente ou dano ao veículo.
