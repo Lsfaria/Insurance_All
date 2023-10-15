@@ -57,19 +57,17 @@ Minha estratégia para resolver esse desafio foi:
 
 # 3. Top 3 Data Insights:
 
-**Hipótese 01:** Clientes do gênero feminino possuem maior probabilidade de adquirir um seguro para carro.
+- **Hipótese 01:** Clientes do gênero feminino possuem maior probabilidade de adquirir um seguro para carro.
 
-**Falsa**  - Clientes do gênero masculino possuem maior probabilidade de adquirir um seguro para carro
+ - **Falsa**  - Clientes do gênero masculino possuem maior probabilidade de adquirir um seguro para carro
 
+- **Hipótese 02:** Clientes que não possuem carteira de motorista são menos propensos a adquirir um seguro de carro.
 
-**Hipótese 02:** Clientes que não possuem carteira de motorista são menos propensos a adquirir um seguro de carro.
+- **Verdadeira**  - Clientes que não possuem carteira são menos propensos a adquirir um seguro de carro.
 
-**Verdadeira**  - Clientes que não possuem carteira são menos propensos a adquirir um seguro de carro.
+- **Hipótese 03:** Clientes que possuem carros novos são mais propensos a adquirir um seguro para carro.
 
-
-**Hipótese 03:** Clientes que possuem carros novos são mais propensos a adquirir um seguro para carro.
-
-**Falso** - Clientes que possuem carros usados são mais propensos a adquirir um seguro para carro.
+- **Falso** - Clientes que possuem carros usados são mais propensos a adquirir um seguro para carro.
 
 # 4. Machine Learning Model Applied
 - LightGBM Classifier
